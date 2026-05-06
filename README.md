@@ -4,6 +4,8 @@ Developer self-service dashboard for [Tex](https://getmetacognition.com) — sig
 
 Built with Next.js 15 (App Router), TypeScript, Tailwind, shadcn/ui, and Recharts.
 
+> **Building on Tex?** Read [`DEVELOPER_GUIDE.md`](./DEVELOPER_GUIDE.md) — the complete SDK integration walkthrough.
+
 ## Local development
 
 ```bash
